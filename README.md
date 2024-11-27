@@ -29,23 +29,6 @@ The project uses Object-Oriented Programming principles:
 2. File Handling
 -Inventory is stored and dynamically updated in a JSON file.
 -Transactions are logged in a CSV file for audit and reporting.
-3. Example Output
-
-
-----------------------MENU-------------------------
-P001 : Laptop         | ₹1000    | Quantity: 10
-P002 : Phone          | ₹500     | Quantity: 20
-P003 : Tablet         | ₹700     | Quantity: 15
-
-----------------------BILL-------------------------
-Name of the Product      : Laptop
-Price of the Product(₹)  : ₹ 1000
-Quantity                 : 2
-SGST(7.5%)               : ₹150.00
-CGST(7.5%)               : ₹150.00
-Discount(10%)            : ₹200.00
-Total Bill               : ₹2100.00
----------------------------------------------------
 
 ## Technologies Used
 -Programming Language: Python
