@@ -1,0 +1,27 @@
+{
+    "1001": {
+        "Name": "5 Star",
+        "Price": 15,
+        "Qn": 198
+    },
+    "1002": {
+        "Name": "Eclairs",
+        "Price": 2,
+        "Qn": 1982
+    },
+    "1003": {
+        "Name": "Galaxy",
+        "Price": 20,
+        "Qn": 195
+    },
+    "1004": {
+        "Name": "Crispelo",
+        "Price": 30,
+        "Qn": 277
+    },
+    "1005": {
+        "Name": "Chocolate Cake",
+        "Price": 300,
+        "Qn": 58
+    }
+}
